@@ -1,0 +1,13 @@
+export * from "./client";
+export * as authApi from "./auth";
+export * as itemsApi from "./items";
+export * as prsApi from "./prs";
+export * as quotationsApi from "./quotations";
+export * as posApi from "./pos";
+export * as grnsApi from "./grns";
+export * as billsApi from "./bills";
+export * as transactionsApi from "./transactions";
+export * as documentsApi from "./documents";
+export * as chatApi from "./chat";
+export * as extractionApi from "./extraction";
+export * as permissionsApi from "./permissions";
